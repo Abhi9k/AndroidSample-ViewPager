@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="headind">This demo illustrates View Pager with different layouts for each page</string>
+</resources>
